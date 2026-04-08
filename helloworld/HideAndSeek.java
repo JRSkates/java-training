@@ -1,3 +1,9 @@
+/**
+* Javadoc comments are used to create documentation for APIs and classes. 
+They are written in a specific format and can be processed by the 
+Javadoc tool to generate HTML documentation.
+*/
+
 public class HideAndSeek {
   public static void main(String[] args) {
     System.out.println("Let's play hide and seek.");
